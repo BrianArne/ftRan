@@ -3,7 +3,7 @@ import sys
 import time
 
 Title = "It is time to randomize!!!"
-End = "It is no loner time to randomize!!!"
+End = "It is no longer time to randomize!!!"
 
 def iterate(f_list):
     random.seed()
