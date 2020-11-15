@@ -1,6 +1,4 @@
 ## ftRan - A quick FASTie randomizer for meetings
-
-# Overview
 ftRan is a simple python tool for randomizing peoples names in a meeting for presenting. ftRan can take a comma delimited file or a list of names are arguemnts
 
 ```
